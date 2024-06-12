@@ -4,3 +4,4 @@
 *.xml linguist-detectable=false
 *.py linguist-detectable=false
 *.css linguist-detectable=false
+*.hbs linguist-detectable=true
